@@ -1,4 +1,4 @@
-# myapp
+# App Layout
 
 Sistema desenvolvido como atividade vinculada ao módulo 2 de Desenvolvimento Web, do Curso Talento Tech .
 
